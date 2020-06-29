@@ -1,0 +1,17 @@
+.ticker ul {
+  width: 100%;
+
+
+}
+
+.ticker ul li {
+  width: 70%;
+  display: none;
+  align-items: left;
+  margin-top: 400px;
+  font-size: 35px;
+  margin-left: 550px;
+  color: grey;
+  font-weight: bolder;
+
+}
