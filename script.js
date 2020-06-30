@@ -34,6 +34,15 @@ $(window).on("load", function () {
 
 
 
+if ($(window).width() < 960) {
+  window.stop();
+} else {
+
+}
+
+
+
+
 
 
 
